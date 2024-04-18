@@ -1,6 +1,6 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <img alt="Vue logo" src="https://jordanschuetz.com/assets/img/jordan-schuetz-headshot.jpg" width="300">
+  <HelloWorld msg="Welcome to Render Jordan Schuetz!"/>
 </template>
 
 <script>
