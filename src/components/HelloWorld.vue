@@ -6,7 +6,7 @@
       The deployment process was seamless! Great developer experience.
     </p>
     <p>
-    Learn more about Jordan at <a href="jordanschuetz">https://jordanschuetz.com</a>
+    Learn more about Jordan at <a href="https://jordanschuetz.com">https://jordanschuetz.com</a>
     </p>
     </ul>
   </div>
